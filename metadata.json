@@ -1,0 +1,6 @@
+{
+  "name": "MyRSS",
+  "description": "一个极简的 RSS 阅读器，支持多源订阅和收藏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
