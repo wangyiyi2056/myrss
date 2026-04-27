@@ -1,3 +1,5 @@
+[中文](README_zh.md) | English
+
 # MyRSS
 
 A minimal RSS reader with multi-source subscriptions, daily must-read aggregation, bookmarks, and i18n support.
